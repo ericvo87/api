@@ -3,3 +3,11 @@
 ################################################################################
 
 /DM.Api/bin/Debug/netcoreapp2.2
+/DM.Api/obj
+/DM.Business/bin/Debug/netstandard2.0
+/DM.Business/obj
+/DM.Common/bin/Debug/netstandard2.0
+/DM.Common/obj
+/DM.DataAccess/bin/Debug/netstandard2.0
+/DM.DataAccess/obj
+/DM.Api/.vs/DM.Api
